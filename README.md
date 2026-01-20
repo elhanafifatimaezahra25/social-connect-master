@@ -15,44 +15,44 @@
 
 ---
 
-## ✨ Features
 
-### 🔐 **Authentication & Security**
+
+###  **Authentication & Security**
 - Secure user registration and login system
 - Password hashing with **BCrypt** (salt rounds 12)
 - Session management across the application
 - SQL injection prevention with prepared statements
 
-### 📝 **Social Posting**
+###  **Social Posting**
 - Create and share posts (up to 500 characters)
 - Chronological feed displaying all user posts
 - Real-time engagement metrics
 - Post timestamps with formatted display
 
-### ❤️ **Engagement System**
+###  **Engagement System**
 - **Like/Unlike** posts with instant visual feedback
 - **Comment** on posts with threaded discussions
 - View comment history with usernames
 - Real-time like and comment counts
 
-### 👥 **Social Networking**
+###  **Social Networking**
 - **Follow/Unfollow** other users
 - Track followers and following counts
 - View follower and following lists
 - Dynamic relationship status updates
 
-### 👤 **User Profiles**
+###  **User Profiles**
 - Customizable user bios
 - Profile statistics (posts, followers, following)
 - View all posts from any user
 - Edit your own profile information
 
-### 🔍 **Discovery**
+###  **Discovery**
 - Search users by username (partial matching)
 - Quick profile access from search results
 - Clickable usernames throughout the app
 
-### 🎨 **Modern UI/UX**
+###  **Modern UI/UX**
 - Beautiful gradient design (purple-blue theme)
 - Card-based layouts for clean content separation
 - Smooth hover effects and transitions
@@ -61,16 +61,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> *Screenshots coming soon! The application features:*
-> - Clean login/registration screens with gradient backgrounds
-> - Modern feed interface with post creation
-> - Interactive user profiles with stats
-> - Elegant comment dialogs
-> - Smooth navigation and transitions
-
----
 
 ## 🚀 Installation
 
@@ -265,7 +255,7 @@ follows
 
 ---
 
-## 🎯 Usage Guide
+##  Usage Guide
 
 ### Getting Started
 
@@ -298,7 +288,7 @@ follows
 
 ---
 
-## 🛠️ Development
+##  Development
 
 ### Available Commands
 
@@ -330,7 +320,7 @@ private static final String PASSWORD = "password";
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here are some ideas for enhancements:
 
@@ -361,13 +351,13 @@ Contributions are welcome! Here are some ideas for enhancements:
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **JavaFX** for the powerful UI framework
 - **MariaDB** for the reliable database system
@@ -377,7 +367,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Project Link**: [https://github.com/NacreousDawn596/social-connect](https://github.com/NacreousDawn596/social-connect)
 
