@@ -369,7 +369,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Contact
 
-**Project Link**: [https://github.com/NacreousDawn596/social-connect](https://github.com/NacreousDawn596/social-connect)
+**Project Link**: [https://github.com/elhanafifatimaezahra25/social-connect-master]
 
 ---
 
