@@ -312,11 +312,12 @@ Database settings are in `src/app/DBConnection.java`:
 
 ```java
 private static final String HOST = "127.0.0.1";
-private static final int PORT = 3307;  // 3306 for standard MySQL
+private static final int PORT = 3306;  
 private static final String DB_NAME = "testdb";
-private static final String USER = "kamal";
-private static final String PASSWORD = "password";
+private static final String USER = "appuser";
+private static final String PASSWORD = "app123";
 ```
+
 
 ---
 
